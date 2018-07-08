@@ -1,0 +1,66 @@
+﻿生成启动时间为 2016/3/7 21:12:25。
+     1>项目“G:\opencv\1\test10\harris_sift\harris_sift\harris_sift.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>C:\Program Files (x86)\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>C:\Program Files (x86)\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>C:\Program Files (x86)\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\opencv\1\test10\harris_sift\harris_sift\harris.h(130): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\opencv\1\test10\harris_sift\harris_sift\draw_Fearure.h(22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\draw_Fearure.h(23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\draw_Fearure.h(25): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\draw_Fearure.h(26): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\draw_Fearure.h(27): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\draw_Fearure.h(28): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\his.h(17): warning C4305: “初始化”: 从“double”到“float”截断
+     1>g:\opencv\1\test10\harris_sift\harris_sift\kdtree.h(46): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\kdtree.h(51): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\kdtree.h(57): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\kdtree.h(80): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\kdtree.h(87): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\kdtree.h(92): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\kdtree.h(387): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\kdtree.h(424): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\kdtree.h(454): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\kdtree.h(458): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\kdtree.h(471): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\kdtree.h(475): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\kdtree.h(494): warning C4305: “初始化”: 从“double”到“float”截断
+     1>g:\opencv\1\test10\harris_sift\harris_sift\kdtree.h(535): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(46): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(109): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(116): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(122): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(123): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(127): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(134): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(147): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(154): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(160): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(161): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(165): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(172): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(191): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(223): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(297): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(298): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(313): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(314): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\harris_sift\harris_sift\feature_match.h(316): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>源.cpp(34): warning C4305: “参数”: 从“double”到“float”截断
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\opencv\1\test10\harris_sift\Release\harris_sift.exe" /NOLOGO opencv_ts300.lib opencv_world300.lib IlmImf.lib libjasper.lib libjpeg.lib libpng.lib libtiff.lib libwebp.lib opencv_calib3d300.lib opencv_core300.lib opencv_features2d300.lib opencv_flann300.lib opencv_highgui300.lib opencv_imgcodecs300.lib opencv_imgproc300.lib opencv_ml300.lib opencv_objdetect300.lib opencv_photo300.lib opencv_shape300.lib opencv_stitching300.lib opencv_superres300.lib opencv_video300.lib opencv_videoio300.lib opencv_videostab300.lib zlib.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\opencv\1\test10\harris_sift\Release\harris_sift.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\opencv\1\test10\harris_sift\Release\harris_sift.lib" /MACHINE:X86 /SAFESEH "Release\源.obj"
+         正在生成代码
+     1>g:\opencv\1\test10\harris_sift\harris_sift\kdtree.h(359): warning C4715: “PushNode”: 不是所有的控件路径都返回值
+         已完成代码的生成
+         harris_sift.vcxproj -> G:\opencv\1\test10\harris_sift\Release\harris_sift.exe
+     1>已完成生成项目“G:\opencv\1\test10\harris_sift\harris_sift\harris_sift.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.57
